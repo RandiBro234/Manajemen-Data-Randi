@@ -45,3 +45,5 @@ while True:
         print('Konversi Belum Tersedia!!')
 
 print("Program Telah Selesai")
+print("Terimakasih")
+
